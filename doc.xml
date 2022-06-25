@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SomeContainers>
+  <containerPtr size="4">
+    <BaseClass name="myclass_0" int="23253" uint="634623" />
+    <BaseClass name="myclass_1" int="1314" uint="20245640" />
+    <BruhClass name="myclass_2" int="525" uint="457452" float="1.43646" double="2.25365363" />
+    <CockAndBallTorture name="myclass_3" int="10" uint="200" boolean="true" />
+  </containerPtr>
+  <containerArg size="4">
+    <BaseClass name="myclass_0" int="2342" uint="43252" />
+    <BaseClass name="myclass_1" int="7678" uint="431" />
+    <BaseClass name="myclass_2" int="263" uint="20460" />
+    <BaseClass name="myclass_3" int="235" uint="20232340" />
+  </containerArg>
+</SomeContainers>
+
